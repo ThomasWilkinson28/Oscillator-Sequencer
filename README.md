@@ -1,2 +1,2 @@
-##Oscillator/Sequencer Project:
+# Oscillator/Sequencer Project:
 While taking Electronics 2 during my third year of mechatronics studies at Queen's University I really enjoyed learning how to analyse certain circuits. Some of my favourite circuits that we touched on where Oscillators. This lead me to start making my own Oscillator at home, however, Oscillators dont sound too good on their own. Thats why I decided to make a sequencer     
